@@ -1,14 +1,11 @@
 ---
 permalink: /
-title: "Dominik Šimon"
+title: "O mně"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-## O mně
-
 Jsem student **Matematicko-fyzikální fakulty Univerzity Karlovy** v Praze. Studuju obor **Matematika a informatika se zaměřením na vzdělávání**, kde se zaměřuji na propojení teorii s praktickou aplikací v edukaci.
 
 ## Projekty
