@@ -2,34 +2,33 @@
 title: "Přípravné kurzy z matematiky na příjímací zkoušky"
 collection: teaching
 type: "CERMAT"
-permalink: 2026-pripravne-kurzy
+permalink: 2025-pripravne-kurzy
 venue: "Příjímací zkoušky"
-date: 2026-02-13
+date: 2025-01-10
 location: "Komunitní centrum Habry"
 ---
 
 # Přípravné kurzy na přijímací zkoušky z matematiky pro deváťáky
 
-- **Odkaz na kurz:** [https://poznamky-po-lopate.netlify.app/](https://poznamky-po-lopate.netlify.app/)
 - **Název kurzu:** Přípravné kurzy na přijímací zkoušky z matematiky pro deváťáky
 - **Cena:** Účast je zdarma
 
 ## Termíny
 
-- 13. 2.
-- 20. 2.
-- 27. 2.
-- 6. 3.
-- 13. 3.
-- 20. 3.
+- 10. 1.
+- 17. 1.
+- 24. 1.
+- 7. 2.
+- 14. 2.
+- 21. 2.
 
 ## Místo a čas
 
-- **Čas:** vždy od 16:00 do 17:30
+- **Čas:** vždy v pátek od 16:30 do 18:00
 - **Místo:** Komunitní centrum Habry
 
 ## Organizace
 
 - **Co s sebou:** sešit, tužky, rýsovací potřeby
-- **Lektor:** Dominik Šimon, student Matematicko-fyzikální fakulty Univerzity Karlovy
+- **Lektor:** Dominik Šimon, student čtvrtého ročníku Gymnázia Chotěboř
 - **Kontakt:** e-mail pro dotazy: `d.simon@outlook.cz`
