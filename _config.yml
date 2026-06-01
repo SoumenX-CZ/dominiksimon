@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Matematicko-fyzikální fakulta, Univerzita Karlova"
-  employer         : ""
+  employer         : 
   uri              : # URL
   email            : "d.simon@outlook.cz" 
 
@@ -64,7 +64,7 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # domca_simon
+  instagram        : "domca_simon"
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
