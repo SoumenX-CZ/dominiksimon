@@ -8,10 +8,8 @@ date: 2025-01-10
 location: "Komunitní centrum Habry"
 ---
 
-# Přípravné kurzy na přijímací zkoušky z matematiky pro deváťáky
-
-- **Název kurzu:** Přípravné kurzy na přijímací zkoušky z matematiky pro deváťáky
-- **Cena:** Účast je zdarma
+**Název kurzu:** Přípravné kurzy na přijímací zkoušky z matematiky pro deváťáky
+**Cena:** Účast je zdarma
 
 ## Termíny
 

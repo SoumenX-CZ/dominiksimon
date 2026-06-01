@@ -9,7 +9,7 @@
 
 main:
   - title: "Projekty"
-    url: /projects/  
+    url: /portfolio/  
 
   - title: "Výuka"
     url: /teaching/    

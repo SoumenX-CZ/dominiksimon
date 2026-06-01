@@ -8,11 +8,9 @@ date: 2026-02-13
 location: "Komunitní centrum Habry"
 ---
 
-# Přípravné kurzy na přijímací zkoušky z matematiky pro deváťáky
-
-- **Odkaz na kurz:** [https://poznamky-po-lopate.netlify.app/](https://poznamky-po-lopate.netlify.app/)
-- **Název kurzu:** Přípravné kurzy na přijímací zkoušky z matematiky pro deváťáky
-- **Cena:** Účast je zdarma
+**Odkaz na kurz:** [https://poznamky-po-lopate.netlify.app/](https://poznamky-po-lopate.netlify.app/)
+**Název kurzu:** Přípravné kurzy na přijímací zkoušky z matematiky pro deváťáky
+**Cena:** Účast je zdarma
 
 ## Termíny
 
