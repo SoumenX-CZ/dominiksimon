@@ -3,43 +3,43 @@
 # English (default)
 # -----------------
 en: &DEFAULT_EN
-  page                       : "Page"
-  pagination_previous        : "Previous"
-  pagination_next            : "Next"
-  breadcrumb_home_label      : "Home"
+  page                       : "Stránka"
+  pagination_previous        : "Předchozí"
+  pagination_next            : "Další"
+  breadcrumb_home_label      : "Domů"
   breadcrumb_separator       : "/"
-  toc_label                  : "On This Page"
-  ext_link_label             : "Direct Link"
-  less_than                  : "less than"
-  minute_read                : "minute read"
-  share_on_label             : "Share on"
+  toc_label                  : "Na této stránce"
+  ext_link_label             : "Přímý odkaz"
+  less_than                  : "méně než"
+  minute_read                : "minuta čtení"
+  share_on_label             : "Sdílet na"
   meta_label                 :
-  tags_label                 : "Tags:"
-  categories_label           : "Categories:"
-  date_label                 : "Published:"
-  comments_label             : "Leave a Comment"
-  comments_title             : "Comments"
-  more_label                 : "Learn More"
-  related_label              : "You May Also Enjoy"
-  follow_label               : "Follow:"
+  tags_label                 : "Tagy:"
+  categories_label           : "Kategorie:"
+  date_label                 : "Publikováno:"
+  comments_label             : "Zanechte komentář"
+  comments_title             : "Komentáře"
+  more_label                 : "Zjistit více"
+  related_label              : "Může se vám také líbit"
+  follow_label               : "Sledujte mě"
   feed_label                 : "Feed"
-  powered_by                 : "Powered by"
-  website_label              : "Website"
-  email_label                : "Email"
-  recent_posts               : "Recent Posts"
-  site_map                   : "Sitemap"
-  undefined_wpm              : "Undefined parameter words_per_minute at _config.yml"
-  comment_form_info          : "Your email address will not be published. Required fields are marked"
-  comment_form_comment_label : "Comment"
-  comment_form_md_info       : "Markdown is supported."
-  comment_form_name_label    : "Name"
-  comment_form_email_label   : "Email address"
-  comment_form_website_label : "Website (optional)"
-  comment_btn_submit         : "Submit Comment"
-  comment_btn_submitted      : "Submitted"
-  comment_success_msg        : "Thanks for your comment! It will show on the site once it has been approved."
-  comment_error_msg          : "Sorry, there was an error with your submission. Please make sure all required fields have been completed and try again."
-  loading_label              : "Loading..."
+  powered_by                 : "Vytvořeno pomocí"
+  website_label              : "Web"
+  email_label                : "E-mail"
+  recent_posts               : "Nedávné příspěvky"
+  site_map                   : "Mapa stránek"
+  undefined_wpm              : "Parametr words_per_minute není definován v _config.yml"
+  comment_form_info          : "Váš e-mail nebude zveřejněn. Povinné pole jsou označena *"
+  comment_form_comment_label : "Komentář"
+  comment_form_md_info       : "Markdown je podporován"
+  comment_form_name_label    : "Jméno"
+  comment_form_email_label   : "E-mail"
+  comment_form_website_label : "Web (nepovinné)"
+  comment_btn_submit         : "Odeslat komentář"
+  comment_btn_submitted      : "Odesláno"
+  comment_success_msg        : "Děkujeme za váš komentář! Bude zobrazen na webu jakmile bude schválen."
+  comment_error_msg          : "Omlouváme se, ale vyskytla se chyba ve vašem odeslání. Prosím ujistěte se, že jste vyplnili všechna povinná pole a zkuste to znovu."
+  loading_label              : "Načítání..."
 en-US:
   <<: *DEFAULT_EN
 en-CA:
@@ -47,6 +47,8 @@ en-CA:
 en-GB:
   <<: *DEFAULT_EN
 en-AU:
+  <<: *DEFAULT_EN
+cs-CZ:
   <<: *DEFAULT_EN
 
 # Spanish
