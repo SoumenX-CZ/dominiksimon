@@ -6,10 +6,6 @@ permalink: gch-informatika
 
 ---
 
-# C++ Programování - Výukové Lekce
-
-Tento repozitář obsahuje výukové lekce pro programování v C++ zaměřené na konzolové aplikace. Každá lekce obsahuje příklady kódu a úkoly.
-
 ## Lekce 1: Úvod do programování, základní pojmy (proměnné, datové typy, operátory)
 
 V této lekci se naučíte základní pojmy programování, jako jsou proměnné, datové typy a operátory. Naučíte se, jak deklarovat proměnné, přiřazovat jim hodnoty a používat různé operátory pro provádění výpočtů.

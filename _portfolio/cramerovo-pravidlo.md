@@ -6,8 +6,6 @@ permalink: cramerovo-pravidlo
 
 ---
 
-# Řešení soustavy rovnic pomocí Cramerova pravidla
-
 Tento projekt se zaměřuje na řešení soustav lineárních rovnic pomocí Cramerova pravidla. Zahrnuje:
 - Webovou stránku, která umožňuje ruční zadávání rovnic a automatické výpočty z webového prohlížeče pomocí JavaScriptu.
 - Excelový soubor, který umožňuje ruční zadávání rovnic a automatické výpočty.

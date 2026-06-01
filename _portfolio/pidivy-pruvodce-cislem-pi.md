@@ -6,8 +6,6 @@ permalink: pidivy-pruvodce-cislem-pi
 
 ---
 
-# πdivý průvodce číslem π
-
 ## Úvod
 Prezentace se zaměřuje na fascinující historii čísla π a různé metody jeho výpočtu. Číslo π je jednou z nejznámějších matematických konstant a hraje klíčovou roli v mnoha oblastech matematiky a vědy.
 

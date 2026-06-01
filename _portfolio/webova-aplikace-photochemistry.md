@@ -6,8 +6,6 @@ permalink: webova-aplikace-photochemistry
 
 ---
 
-# Aplikace Photochemistry
-
 Toto je veřejná verze aplikace Photochemistry. V této verzi byly všechny API klíče odstraněny a nahrazeny slovem `CENZURA` v kódu.
 
 ## Chybějící soubory
