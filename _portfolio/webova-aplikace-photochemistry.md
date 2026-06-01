@@ -1,9 +1,8 @@
 ---
 title: "Webová aplikace Photochemistry"
-excerpt: "Aplikace pro rozpoznávání chemických vzorců, řešení chemických rovnic, a řešení chemických struktur. <br/><img style='border: 2px solid lightgray; border-radius: 8px;' src='https://soumenx-cz.github.io/dominiksimon/images/project2.png'>"
+excerpt: "Aplikace pro rozpoznávání chemických vzorců, řešení chemických rovnic, a řešení chemických struktur. <br/><img style='border: 2px solid lightgray; border-radius: 8px;' src='https://dominiksimon.com/images/project2.png'>"
 collection: portfolio
 permalink: webova-aplikace-photochemistry
-
 ---
 
 Toto je veřejná verze aplikace Photochemistry. V této verzi byly všechny API klíče odstraněny a nahrazeny slovem `CENZURA` v kódu.

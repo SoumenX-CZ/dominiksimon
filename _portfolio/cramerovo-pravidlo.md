@@ -1,9 +1,8 @@
 ---
 title: "Cramerovo pravidlo"
-excerpt: "Tento projekt se zaměřuje na řešení soustav lineárních rovnic pomocí Cramerova pravidla.<br/><img style='border: 2px solid lightgray; border-radius: 8px;' src='https://soumenx-cz.github.io/dominiksimon/images/project5.png'>"
+excerpt: "Tento projekt se zaměřuje na řešení soustav lineárních rovnic pomocí Cramerova pravidla.<br/><img style='border: 2px solid lightgray; border-radius: 8px;' src='https://dominiksimon.com/images/project5.png'>"
 collection: portfolio
 permalink: cramerovo-pravidlo
-
 ---
 
 Tento projekt se zaměřuje na řešení soustav lineárních rovnic pomocí Cramerova pravidla. Zahrnuje:

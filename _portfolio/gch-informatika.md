@@ -1,9 +1,8 @@
 ---
 title: "GCH - Informatika"
-excerpt: "Repozitář obsahuje výukové lekce pro programování v C++ zaměřené na konzolové aplikace. Každá lekce obsahuje příklady kódu a úkoly. <br/><img style='border: 2px solid lightgray; border-radius: 8px;' src='https://soumenx-cz.github.io/dominiksimon/images/project1.png'>"
+excerpt: "Repozitář obsahuje výukové lekce pro programování v C++ zaměřené na konzolové aplikace. Každá lekce obsahuje příklady kódu a úkoly. <br/><img style='border: 2px solid lightgray; border-radius: 8px;' src='https://dominiksimon.com/images/project1.png'>"
 collection: portfolio
 permalink: gch-informatika
-
 ---
 
 ## Lekce 1: Úvod do programování, základní pojmy (proměnné, datové typy, operátory)
