@@ -32,7 +32,7 @@ Pro použití této aplikace budete muset nahradit zástupné znaky `CENZURA` sv
 ## Středoškolská odborná činnost 
 Odkaz na práci: https://1drv.ms/w/s!Ajtcv5NNAjbxgakkQiId-jwo0123Ug?e=56eygH
 
-## Odkazy
+## Odkazy (již nefunkční)
 Odkaz na stránky: https://photochemistry.link/
 
 Odkaz na Obchod Play: https://play.google.com/store/apps/details?id=com.soumenx.photochemistry&pli=1
