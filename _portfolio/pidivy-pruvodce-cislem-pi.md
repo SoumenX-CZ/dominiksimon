@@ -1,6 +1,12 @@
 ---
 title: "πdivý průvodce číslem π"
-excerpt: "Prezentace se zaměřuje na fascinující historii čísla π a různé metody jeho výpočtu. Číslo π je jednou z nejznámějších matematických konstant a hraje klíčovou roli v mnoha oblastech matematiky a vědy.<br/><img style='border: 2px solid lightgray; border-radius: 8px;' src='https://dominiksimon.com/images/project3.png'>"
+excerpt: '<div style="display: flex; align-items: center; gap: 20px;">
+  <div style="order: 1;">
+    <img src="https://dominiksimon.com/images/project3.png" style="width: 160px; height: auto; border: 2px solid lightgray; border-radius: 8px; display: block;">
+  </div>
+  <div style="flex: 1; font-size: 1rem; line-height: 1.6; order: 2;">
+    Prezentace se zaměřuje na fascinující historii čísla π a různé metody jeho výpočtu. Číslo π je jednou z nejznámějších matematických konstant a hraje klíčovou roli v mnoha oblastech matematiky a vědy.
+  </div></div>'
 collection: portfolio
 permalink: pidivy-pruvodce-cislem-pi
 ---

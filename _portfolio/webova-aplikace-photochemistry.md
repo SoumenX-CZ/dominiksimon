@@ -1,6 +1,12 @@
 ---
 title: "Webová aplikace Photochemistry"
-excerpt: "Aplikace pro rozpoznávání chemických vzorců, řešení chemických rovnic, a řešení chemických struktur. <br/><img style='border: 2px solid lightgray; border-radius: 8px;' src='https://dominiksimon.com/images/project2.png'>"
+excerpt: '<div style="display: flex; align-items: center; gap: 20px;">
+  <div style="order: 1;">
+    <img src="https://dominiksimon.com/images/project2.png" style="width: 160px; height: auto; border: 2px solid lightgray; border-radius: 8px; display: block;">
+  </div>
+  <div style="flex: 1; font-size: 1rem; line-height: 1.6; order: 2;">
+    Aplikace pro rozpoznávání chemických vzorců, řešení chemických rovnic, a řešení chemických struktur.
+  </div></div>'
 collection: portfolio
 permalink: webova-aplikace-photochemistry
 ---
