@@ -8,7 +8,7 @@ excerpt: '<div style="display: flex; align-items: center; gap: 20px;">
     Webová aplikace na prohlížení poznámkových bloků a zadávání úkolů.
   </div></div>'
 collection: portfolio
-permalink: habersky-drb
+permalink: poznamky-po-lopate
 ---
 
 ## Popis
