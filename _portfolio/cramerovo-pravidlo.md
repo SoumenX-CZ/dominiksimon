@@ -1,6 +1,12 @@
 ---
 title: "Cramerovo pravidlo"
-excerpt: "Tento projekt se zaměřuje na řešení soustav lineárních rovnic pomocí Cramerova pravidla.<br/><img style='border: 2px solid lightgray; border-radius: 8px;' src='https://dominiksimon.com/images/project5.png'>"
+excerpt: '<div style="display: flex; align-items: center; gap: 20px;">
+  <div style="flex: 1; font-size: 1rem; line-height: 1.6;">
+    Tento projekt se zaměřuje na řešení soustav lineárních rovnic pomocí Cramerova pravidla.
+  </div>
+  <div style="order: 2;">
+    <img src="https://dominiksimon.com/images/project5.png" style="width: 160px; height: auto; border: 2px solid lightgray; border-radius: 8px; display: block;">
+  </div></div>'
 collection: portfolio
 permalink: cramerovo-pravidlo
 ---
